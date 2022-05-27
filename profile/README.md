@@ -1,4 +1,4 @@
-<h4 align="center">Vuwnu</h4>
+<h3 align="center">Vuwnu</h3>
 <table align="center">
   <tr>
     <td align="center"><h6 align="center">The goal of Vuwnu is to make some cool stuff</h6></td>
