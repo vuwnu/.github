@@ -1,4 +1,4 @@
-<h3 align="center">Vuwnu</h3>
+<img src="https://i.imgur.com/FVXWhWC.png">
 <hr>
 <h4 align="center">The goal is to build a wide variety of interesting projects</h4>
 <hr>
