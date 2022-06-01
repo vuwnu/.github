@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/FVXWhWC.png">
+<h1 align="center"><img src="https://i.imgur.com/FVXWhWC.png" width="500"></h1>
 <hr>
 <h4 align="center">The goal is to build a wide variety of interesting projects</h4>
 <hr>
